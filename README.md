@@ -14,7 +14,7 @@ Does not work with python >= 3.12 due to incompatibility with `pysnmp` library.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/snmpproxy.git
+    git clone https://github.com/koenhandekyn/snmpproxy.git
     cd snmpproxy
     ```
 
