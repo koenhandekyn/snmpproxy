@@ -1,0 +1,78 @@
+2025-02-21 11:47:12,267 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:47:35,076 - INFO - SNMP Proxy shutting down.
+2025-02-21 11:47:37,292 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:48:22,080 - INFO - SNMP Proxy shutting down.
+2025-02-21 11:48:23,171 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:52:41,215 - INFO - SNMP Proxy shutting down.
+2025-02-21 11:52:52,997 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:55:01,238 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:55:18,767 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:55:44,466 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:57:37,661 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 11:59:19,998 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:00:13,865 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:00:21,225 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:06:52,615 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:07:57,126 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:08:48,015 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:08:48,763 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:09:59,464 - INFO - SNMP Proxy started on UDP 161 (Listening for SNMPv3 requests)
+2025-02-21 12:11:23,357 - INFO - SNMP Proxy started. Listening for SNMPv3 requests.
+2025-02-21 12:14:18,904 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:14:49,123 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:14:49,970 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:15:27,384 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:15:28,699 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:16:03,853 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:16:35,140 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:18:45,491 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:18:59,522 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:19:14,685 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:19:15,643 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:21:20,573 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:21:21,623 - INFO - SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:21:54,513 - INFO - SNMP Proxy shutting down.
+2025-02-21 12:23:50,955 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:24:10,660 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:24:12,011 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:24:22,542 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:24:25,928 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:25:55,255 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:27:07,438 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:27:36,996 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:27:37,851 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:28:17,397 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:28:18,296 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:29:32,387 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:31:51,984 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:32:16,415 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:39:26,144 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:39:29,806 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:29,806 - INFO - ✅ Local Response: 1.3.6.1.4.1.6302.2.1.2.28.6.0 -> SNMP Proxy Device
+2025-02-21 12:39:29,806 - INFO - 🚀 Sending SNMP response: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <OctetString value object, tagSet <TagSet object, tags 0:0:4>, subtypeSpec <ConstraintsIntersection object, consts <ValueSizeConstraint object, consts 0, 65535>>, encoding iso-8859-1, payload [SNMP Proxy Device]>)]
+2025-02-21 12:39:47,315 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.2]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:47,316 - INFO - 🔄 OID 1.3.6.1.4.1.6302.2.1.2.28.6.2 not found locally, proxying request...
+2025-02-21 12:39:48,323 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.2]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:48,323 - INFO - 🔄 OID 1.3.6.1.4.1.6302.2.1.2.28.6.2 not found locally, proxying request...
+2025-02-21 12:39:49,327 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.2]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:49,327 - INFO - 🔄 OID 1.3.6.1.4.1.6302.2.1.2.28.6.2 not found locally, proxying request...
+2025-02-21 12:39:50,333 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.2]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:50,333 - INFO - 🔄 OID 1.3.6.1.4.1.6302.2.1.2.28.6.2 not found locally, proxying request...
+2025-02-21 12:39:51,339 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.2]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:51,339 - INFO - 🔄 OID 1.3.6.1.4.1.6302.2.1.2.28.6.2 not found locally, proxying request...
+2025-02-21 12:39:52,340 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.2]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:52,340 - INFO - 🔄 OID 1.3.6.1.4.1.6302.2.1.2.28.6.2 not found locally, proxying request...
+2025-02-21 12:39:53,835 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:39:53,836 - INFO - ✅ Local Response: 1.3.6.1.4.1.6302.2.1.2.28.6.0 -> SNMP Proxy Device
+2025-02-21 12:39:53,836 - INFO - 🚀 Sending SNMP response: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <OctetString value object, tagSet <TagSet object, tags 0:0:4>, subtypeSpec <ConstraintsIntersection object, consts <ValueSizeConstraint object, consts 0, 65535>>, encoding iso-8859-1, payload [SNMP Proxy Device]>)]
+2025-02-21 12:43:27,152 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:43:28,237 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:43:30,385 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:43:30,385 - INFO - ✅ Local Response: 1.3.6.1.4.1.6302.2.1.2.28.6.0 -> SNMP Proxy Device
+2025-02-21 12:43:30,385 - INFO - 🚀 Sending SNMP response: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <OctetString value object, tagSet <TagSet object, tags 0:0:4>, subtypeSpec <ConstraintsIntersection object, consts <ValueSizeConstraint object, consts 0, 65535>>, encoding iso-8859-1, payload [SNMP Proxy Device]>)]
+2025-02-21 12:44:03,033 - INFO - ❌ SNMP Proxy shutting down.
+2025-02-21 12:45:14,885 - INFO - ✅ SNMP Proxy started on UDP 161, listening for SNMPv3 requests.
+2025-02-21 12:45:19,567 - INFO - 📩 Incoming SNMP request from 127.0.0.1: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <Null value object, tagSet <TagSet object, tags 0:0:5>, subtypeSpec <ConstraintsIntersection object, consts <SingleValueConstraint object, consts b''>>, encoding iso-8859-1, payload []>)]
+2025-02-21 12:45:19,567 - INFO - ✅ Local Response: 1.3.6.1.4.1.6302.2.1.2.28.6.0 -> SNMP Proxy Device
+2025-02-21 12:45:19,567 - INFO - 🚀 Sending SNMP response: [(<ObjectName value object, tagSet <TagSet object, tags 0:0:6>, payload [1.3.6.1.4.1.6302.2.1.2.28.6.0]>, <OctetString value object, tagSet <TagSet object, tags 0:0:4>, subtypeSpec <ConstraintsIntersection object, consts <ValueSizeConstraint object, consts 0, 65535>>, encoding iso-8859-1, payload [SNMP Proxy Device]>)]
+2025-02-21 12:51:13,076 - INFO - ❌ SNMP Proxy shutting down.
